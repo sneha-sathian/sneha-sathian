@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋 I'm Sneha
 
-<!--
-**sneha-sathian/sneha-sathian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Embedded Systems Engineer
 
-Here are some ideas to get you started:
+🔧 Embedded engineer with hands-on experience in **microcontrollers** and **firmware development**.  
+💡 I enjoy working close to hardware, writing efficient code, and building reliable embedded solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Skills & Technologies
+- **Programming:** C, C++, Embedded C  
+- **Microcontrollers:** ARM-based MCUs, Arduino, ESP32 *(add/remove as needed)*  
+- **Embedded Concepts:** GPIO, Timers, Interrupts, UART, SPI, I2C  
+- **Tools:** Keil, STM32CubeIDE, PlatformIO, Git  
+- **Debugging:** JTAG, Logic Analyzer, Oscilloscope *(optional)*
+
+---
+
+### 📌 What I’m Working On
+- Embedded firmware projects  
+- Low-level driver development  
+- Improving performance and reliability of embedded systems  
+
+---
+
+### 🌱 Currently Learning
+- RTOS concepts  
+- Advanced embedded Linux / device drivers *(optional)*
+
+---
+
+### 📫 Connect With Me
+- GitHub: https://github.com/sneha-sathian
+- LinkedIn: *(add if you want)*
+
+---
+
+⭐️ Feel free to explore my repositories and projects!
