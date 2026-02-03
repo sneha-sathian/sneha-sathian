@@ -8,7 +8,7 @@
 ---
 
 ### 🛠️ Skills & Technologies
-- **Programming:** C, C++, Embedded C  
+- **Programming:** C, C++, Embedded C,Python 
 - **Microcontrollers:** ARM-based MCUs, Arduino, ESP32 *(add/remove as needed)*  
 - **Embedded Concepts:** GPIO, Timers, Interrupts, UART, SPI, I2C  
 - **Tools:** Keil, STM32CubeIDE, PlatformIO, Git  
